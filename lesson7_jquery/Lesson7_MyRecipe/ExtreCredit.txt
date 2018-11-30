@@ -1,0 +1,3 @@
+I added an animation for when you click on the picture of the cookie it will expand.
+I also changed the css to update the background colors of h3 and img elements.
+I transversed the DOM by changing the first and last h3 elements to different colors.
